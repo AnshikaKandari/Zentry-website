@@ -22,7 +22,10 @@ Developed using React, GSAP, and Tailwind CSS to explore modern web animations.
 
 ## Trailer
 
-https://drive.google.com/drive/u/2/home
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1bt9z7RVkba_1ZQR1J_bZTJPPvl9J_7vu" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Inspiration
 
