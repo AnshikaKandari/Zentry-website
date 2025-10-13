@@ -23,7 +23,7 @@ Developed using React, GSAP, and Tailwind CSS to explore modern web animations.
 ## Trailer
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1bt9z7RVkba_1ZQR1J_bZTJPPvl9J_7vu" type="video/mp4">
+  <source src="./public/videos/trailer_anshika.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
