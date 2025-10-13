@@ -22,10 +22,9 @@ Developed using React, GSAP, and Tailwind CSS to explore modern web animations.
 
 ## Trailer
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/f09be446-64b8-4bae-8e65-a32248db1bfa" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Here's the preview
+
+https://github.com/user-attachments/assets/f09be446-64b8-4bae-8e65-a32248db1bfa
 
 ## Inspiration
 
