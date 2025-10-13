@@ -22,7 +22,6 @@ Developed using React, GSAP, and Tailwind CSS to explore modern web animations.
 
 ## Trailer
 
-Here's the preview
 
 https://github.com/user-attachments/assets/f09be446-64b8-4bae-8e65-a32248db1bfa
 
